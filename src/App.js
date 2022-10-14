@@ -50,6 +50,6 @@ const App = () =>{
             <GlobalStyle/>
         </>
     );
-};
+}; 
 
 export default App;
